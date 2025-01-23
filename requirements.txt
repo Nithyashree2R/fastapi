@@ -4,3 +4,4 @@ uvicorn==0.23.2        # ASGI server for running the FastAPI app
 python-jose==3.3.0     # For JWT token handling
 Werkzeug==2.3.7        # For password hashing (e.g., bcrypt)
 PyJWT==2.8.0 
+python-multipart==0.0.6
